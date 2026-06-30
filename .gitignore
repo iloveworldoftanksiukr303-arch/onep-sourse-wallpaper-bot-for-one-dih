@@ -1,0 +1,16 @@
+# Файлы сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Локальные файлы кэша и БД бота
+__pycache__/
+buffer/
+history.db
+config.json
+error_log.txt
+win_current_wallpaper.png
+
+# Настройки сред разработки
+.vscode/
+.idea/
